@@ -5,7 +5,6 @@
 ```bash
 NBRp5ifv0dx5i22w8qv127bi
 ```
-- **1E-7E & 1F-8F**
 ```sh
 NBR46fmv39f8173kp465hav6
 ```
@@ -34,4 +33,4 @@ NBRa4r0cf4py7xn2mux6kz3n
 NBR32ummw8e50cf2g6tx7420
 ```
 
-<br>
+</br>
