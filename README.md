@@ -1,6 +1,7 @@
 # SEPUTAR NN
 
 <br>
+
 ```bash
 NBRp5ifv0dx5i22w8qv127bi
 ```
@@ -24,7 +25,5 @@ NBRa4r0cf4py7xn2mux6kz3n
 ```
 ```sh
 NBR32ummw8e50cf2g6tx7420
-```
-```bash
 ```
 <br>
