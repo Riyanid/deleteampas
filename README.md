@@ -2,7 +2,7 @@
 
 <br>
 
--1: **1G-7G & 1H-8H**
+- **1G-7G & 1H-8H**
 ```bash
 NBRs1987vxt72vzro9ap5vl2
 ```
