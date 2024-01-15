@@ -24,7 +24,7 @@ NBRh8fol765m72xd6j1t8819
 ```
 - **1K-7K & 1L-8L**
 ```sh
-NBR0ecr6d3znu9ab0o884bof
+NBRiv4173d17ahu8u5zj1s0o
 ```
 - **1C-7C & 1D-8D**
 ```bash
