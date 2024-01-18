@@ -28,7 +28,7 @@ NBRiv4173d17ahu8u5zj1s0o
 ```
 - **1C-7C & 1D-8D**
 ```bash
-NBRa4r0cf4py7xn2mux6kz3n
+NBRhq2h859j94yv21l73x308
 ```
 - **1B-10B**
 ```sh
