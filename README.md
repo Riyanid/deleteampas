@@ -32,7 +32,7 @@ NBRhq2h859j94yv21l73x308
 ```
 - **1B-10B**
 ```sh
-NBR32ummw8e50cf2g6tx7420
+NBR4082q09wf8oxb6kpc2nxf
 ```
 - **1N-15N**
 ```bash
