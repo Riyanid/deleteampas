@@ -4,7 +4,7 @@
 
 - **1G-7G & 1H-8H**
 ```bash
-NBRs1987vxt72vzro9ap5vl2
+NBRo6oow0rex1s5t7t6028cb
 ```
 - **1E-7E & 1F-8F**
 ```sh
