@@ -46,7 +46,7 @@ NBR06x452p1boxu33969o0ni
 
 
 ### Donasi La Wee Buat Udud:V
-- [Saweria](https://saweria.co/IyansMD) - [Dana](https://telegra.ph/file/0180a2ffaa5b0e38190da.jpg)
+- [Saweria](https://saweria.co/IyansMD), - [Dana](https://telegra.ph/file/0180a2ffaa5b0e38190da.jpg)
 
 - [Ovo](https://telegra.ph/file/c1c731ade61ffb6259b2a.jpg) - [Qris](https://telegra.ph/file/370d9f88d52a546c0064e.jpg)
 
