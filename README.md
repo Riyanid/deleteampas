@@ -2,15 +2,15 @@
 
 <br>
 
-- **1M-14M, 16i**
+- **1S-7S, 1T-7T, 16K**
 ```bash
 NBR1q04r89j0pong6uph1vuv
 ```
-- **1A-12A & 11B-12B, 1J, 1i-13i**
+- **1A-12A & 11B-12B, 1L, 1K-13K**
 ```sh
 NBRms9r37w64614y2seir81w
 ```
-- **1K-7K & 1L-8L**
+- **1i-7i & 1J-8J**
 ```bash
 NBRiv4173d17ahu8u5zj1s0o
 ```
@@ -22,23 +22,23 @@ NBRhq2h859j94yv21l73x308
 ```bash
 NBR4082q09wf8oxb6kpc2nxf
 ```
-- **1G-7G & 1H-8H**
+- **1E-7E & 1F-8F**
 ```sh
 NBRo6oow0rex1s5t7t6028cb
 ```
-- **1E-7E & 1F-8F**
+- **1G-7G & 1H-8H**
 ```bash
 NBRxv0y4p6lpv052kzrs7pzj
 ```
-- **14 I-15 I, 12J-16J**
+- **14K-15K, 12L-16L**
 ```sh
 NBRo263z5q6bbxy09d9j28dd
 ```
-- **1N-15N**
+- **1U-7U, 1V-7V, 7Q**
 ```bash
 NBRhit3tgas5s1ddl504rw12
 ```
-- **2J-11J**
+- **2L-11L**
 ```sh
 NBR06x452p1boxu33969o0ni
 ```
