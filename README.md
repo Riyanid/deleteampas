@@ -8,7 +8,7 @@ NBR1q04r89j0pong6uph1vuv
 ```
 - **1A-12A & 11B-12B, 1J, 1i-13i**
 ```sh
-NBRh8fol765m72xd6j1t8819
+NBRms9r37w64614y2seir81w
 ```
 - **1K-7K & 1L-8L**
 ```bash
