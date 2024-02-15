@@ -12,7 +12,7 @@ NBRms9r37w64614y2seir81w
 ```
 - **1i-7i & 1J-8J**
 ```bash
-NBRiv4173d17ahu8u5zj1s0o
+NBR9d62cg441a2quhucn2lbm
 ```
 - **1C-7C & 1D-8D**
 ```sh
@@ -45,7 +45,7 @@ NBR06x452p1boxu33969o0ni
 <br>
 
 
-### Donasi La Weee Buat Udud:V
+### Donasi La Wee Buat Udud:V
 - [Saweria](https://saweria.co/IyansMD)
 - [Dana](https://telegra.ph/file/0180a2ffaa5b0e38190da.jpg)
 - [Ovo](https://telegra.ph/file/c1c731ade61ffb6259b2a.jpg)
