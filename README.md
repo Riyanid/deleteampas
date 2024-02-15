@@ -44,9 +44,6 @@ NBR06x452p1boxu33969o0ni
 ```
 <br>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Donasi+Laa+Wee;Buat+Ududd:V;" />
-
 ### Donasi La Wee Buat Udud:V
 - [Saweria](https://saweria.co/IyansMD)
 - [Dana](https://telegra.ph/file/0180a2ffaa5b0e38190da.jpg)
