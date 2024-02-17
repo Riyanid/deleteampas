@@ -16,7 +16,7 @@ NBR9d62cg441a2quhucn2lbm
 ```
 - **1C-7C & 1D-8D**
 ```sh
-NBRhq2h859j94yv21l73x308
+NBR2141xyyye7x0yf9ih2247
 ```
 - **1B-10B**
 ```bash
