@@ -20,7 +20,7 @@ NBR2141xyyye7x0yf9ih2247
 ```
 - **1B-10B**
 ```bash
-NBR4082q09wf8oxb6kpc2nxf
+NBR67081b7c36d61gzqxb5k9
 ```
 - **1E-7E & 1F-8F**
 ```sh
