@@ -44,6 +44,7 @@ NBR06x452p1boxu33969o0ni
 ```
 <br>
 ### NVIDIA
+
 - [Dnload](https://filetransfer.io/data-package/sJJmq4Ed#link)
 
 ### Donasi La Wee Buat Udud:V
