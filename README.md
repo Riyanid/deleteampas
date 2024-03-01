@@ -2,7 +2,7 @@
 
 <br>
 
-- **1S-7S, 1T-7T, 16K**
+- **1S-7S, 1T-7T, 16K (30)**
 ```bash
 NBR1q04r89j0pong6uph1vuv
 ```
@@ -36,7 +36,7 @@ NBR6ttlmmjlj6va35nwsf8k3
 ```
 - **1U-7U, 1V-7V, 7Q**
 ```bash
-NBRhit3tgas5s1ddl504rw12
+NBR1yvog110fjkebrgiy89b1
 ```
 - **2L-11L**
 ```sh
