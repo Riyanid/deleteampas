@@ -30,7 +30,7 @@ NBR09n45jmia41ut53c963ys
 ```bash
 NBRrk2of1c46hqc1iy2bs6qh
 ```
-- **14K-15K, 12L-16L**
+- **14-15K, 12-16L,  2-7Q, 1-7R, 1-8X**
 ```sh
 NBR6ttlmmjlj6va35nwsf8k3
 ```
