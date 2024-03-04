@@ -40,7 +40,7 @@ NBR1yvog110fjkebrgiy89b1
 ```
 - **2L-11L**
 ```sh
-NBR06x452p1boxu33969o0ni
+NBRo56xt2qidzzr2dqs5gn2h
 ```
 <br>
 ### NVIDIA Lurd
