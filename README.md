@@ -30,11 +30,11 @@ NBR09n45jmia41ut53c963ys
 ```bash
 NBRrk2of1c46hqc1iy2bs6qh
 ```
-- **14-15K, 12-16L,  2-7Q, 1-7R, 1-8X**
+- **14-15K, 12-16L,  2-6Q, 1-7R, 1-8W**
 ```sh
 NBR6ttlmmjlj6va35nwsf8k3
 ```
-- **1U-7U, 1V-7V, 7Q**
+- **1-7U, 1-7V, 7Q, 1-7O, 1-7P**
 ```bash
 NBR1yvog110fjkebrgiy89b1
 ```
