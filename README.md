@@ -43,10 +43,11 @@ NBR1yvog110fjkebrgiy89b1
 NBRo56xt2qidzzr2dqs5gn2h
 ```
 <br>
+
+
 ### NVIDIA Lurd
 
-
-- [Donload]([https://filetransfer.io/data-package/4b2g7KeM#link)
+- [Donload](https://filetransfer.io/data-package/4b2g7KeM#link)
 
 
 ### Donasi La Wee Buat Udud:V
