@@ -45,9 +45,12 @@ NBRo56xt2qidzzr2dqs5gn2h
 <br>
 ### NVIDIA Lurd
 
+
 - [Donload]([https://filetransfer.io/data-package/4b2g7KeM#link)
 
+
 ### Donasi La Wee Buat Udud:V
+
 - [Saweria](https://saweria.co/IyansMD)
 - [Dana](https://telegra.ph/file/0180a2ffaa5b0e38190da.jpg)
 - [Ovo](https://telegra.ph/file/c1c731ade61ffb6259b2a.jpg)
