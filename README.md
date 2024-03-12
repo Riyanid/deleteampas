@@ -4,7 +4,7 @@
 
 - **1S-7S, 1T-7T, 16K (30)**
 ```bash
-NBR1q04r89j0pong6uph1vuv
+NBRx0q63a0s926lo79f0sxw7
 ```
 - **1A-12A & 11B-12B, 1L, 1K-13K**
 ```sh
