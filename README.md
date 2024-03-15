@@ -12,7 +12,7 @@ NBRafalh40795698jx385hs2
 ```
 - **1i-7i & 1J-8J**
 ```bash
-NBR9d62cg441a2quhucn2lbm
+NBR7vxp48c5xfb98nw5s2022
 ```
 - **1C-7C & 1D-8D**
 ```sh
