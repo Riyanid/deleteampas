@@ -16,11 +16,11 @@ NBR7vxp48c5xfb98nw5s2022
 ```
 - **1C-7C & 1D-8D**
 ```sh
-NBR2141xyyye7x0yf9ih2247
+NBRzm7070770e01y365sz558
 ```
 - **1B-10B**
 ```bash
-NBR67081b7c36d61gzqxb5k9
+NBR2613227hxkp3ky5vnch46
 ```
 - **1E-7E & 1F-8F**
 ```sh
